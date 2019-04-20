@@ -1,0 +1,6 @@
+#Fri Apr 19 22:18:48 BRT 2019
+context=INSTRUMENTED
+json={"id"\:"login_user","dumpElementType"\:"INSTRUMENTED","x"\:22,"y"\:1030,"width"\:1037,"height"\:118,"onScreen"\:true,"uniqueKeys"\:"id,hint,focused","visible"\:"true","hidden"\:"false","top"\:"true","knownSuperClass"\:"android.widget.EditText","hint"\:"Usuario","busy"\:"false","focused"\:"true","text"\:"","textColor"\:"0x000000","class"\:"com.google.android.material.textfield.TextInputEditText","enabled"\:"true"}
+page=Login
+by=xpath
+expression=//*[@hint\='Usuario' and @focused\='true' and @id\='login_user']

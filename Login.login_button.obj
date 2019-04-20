@@ -1,0 +1,6 @@
+#Fri Apr 19 22:19:04 BRT 2019
+json={"id"\:"login_button","dumpElementType"\:"INSTRUMENTED","x"\:21,"y"\:1463,"width"\:1038,"height"\:126,"onScreen"\:true,"uniqueKeys"\:"id,knownSuperClass,text,class","visible"\:"true","hidden"\:"false","top"\:"true","knownSuperClass"\:"android.widget.Button","busy"\:"false","text"\:"Login","textColor"\:"0x000000","class"\:"androidx.appcompat.widget.AppCompatButton","enabled"\:"true"}
+context=INSTRUMENTED
+page=Login
+by=xpath
+expression=//*[@knownSuperClass\='android.widget.Button' and @id\='login_button' and @text\='Login' and @class\='androidx.appcompat.widget.AppCompatButton']
